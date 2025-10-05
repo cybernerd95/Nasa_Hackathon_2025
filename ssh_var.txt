@@ -1,0 +1,191 @@
+=== Variables ===
+
+Variable: time
+
+Variable: time_tai
+
+Variable: latitude
+
+Variable: longitude
+
+Variable: ssh_karin
+
+Variable: ssh_karin_uncert
+
+Variable: ssha_karin
+
+Variable: ssh_karin_2
+
+Variable: ssha_karin_2
+
+Variable: ssha_karin_qual
+
+Variable: polarization_karin
+
+Variable: swh_karin
+
+Variable: swh_karin_uncert
+
+Variable: sig0_karin
+
+Variable: sig0_karin_uncert
+
+Variable: sig0_karin_2
+
+Variable: wind_speed_karin
+
+Variable: wind_speed_karin_2
+
+Variable: swh_karin_qual
+
+Variable: sig0_karin_qual
+
+Variable: num_pt_avg
+
+Variable: swh_model
+
+Variable: mean_wave_direction
+
+Variable: mean_wave_period_t02
+
+Variable: wind_speed_model_u
+
+Variable: wind_speed_model_v
+
+Variable: wind_speed_rad
+
+Variable: distance_to_coast
+
+Variable: heading_to_coast
+
+Variable: ancillary_surface_classification_flag
+
+Variable: dynamic_ice_flag
+
+Variable: rain_flag
+
+Variable: rad_surface_type_flag
+
+Variable: sc_altitude
+
+Variable: latitude_nadir
+
+Variable: longitude_nadir
+
+Variable: orbit_alt_rate
+
+Variable: cross_track_angle
+
+Variable: sc_roll
+
+Variable: sc_pitch
+
+Variable: sc_yaw
+
+Variable: velocity_heading
+
+Variable: orbit_qual
+
+Variable: latitude_avg_ssh
+
+Variable: longitude_avg_ssh
+
+Variable: cross_track_distance
+
+Variable: x_factor
+
+Variable: sig0_cor_atmos_model
+
+Variable: sig0_cor_atmos_rad
+
+Variable: doppler_centroid
+
+Variable: phase_bias_ref_surface
+
+Variable: obp_ref_surface
+
+Variable: rad_tmb_187
+
+Variable: rad_tmb_238
+
+Variable: rad_tmb_340
+
+Variable: rad_water_vapor
+
+Variable: rad_cloud_liquid_water
+
+Variable: mean_sea_surface_cnescls
+
+Variable: mean_sea_surface_cnescls_uncert
+
+Variable: mean_sea_surface_dtu
+
+Variable: mean_sea_surface_dtu_uncert
+
+Variable: geoid
+
+Variable: mean_dynamic_topography
+
+Variable: mean_dynamic_topography_uncert
+
+Variable: depth_or_elevation
+
+Variable: solid_earth_tide
+
+Variable: ocean_tide_fes
+
+Variable: ocean_tide_got
+
+Variable: load_tide_fes
+
+Variable: load_tide_got
+
+Variable: ocean_tide_eq
+
+Variable: ocean_tide_non_eq
+
+Variable: internal_tide_hret
+
+Variable: internal_tide_sol2
+
+Variable: pole_tide
+
+Variable: dac
+
+Variable: inv_bar_cor
+
+Variable: model_dry_tropo_cor
+
+Variable: model_wet_tropo_cor
+
+Variable: rad_wet_tropo_cor
+
+Variable: iono_cor_gim_ka
+
+Variable: height_cor_xover
+
+Variable: correction_flag
+
+Variable: rain_rate
+
+Variable: ice_conc
+
+Variable: sea_state_bias_cor
+
+Variable: sea_state_bias_cor_2
+
+Variable: swh_sea_state_bias
+
+Variable: simulated_true_ssh_karin
+
+Variable: simulated_error_karin
+
+Variable: simulated_error_baseline_dilation
+
+Variable: simulated_error_timing
+
+Variable: simulated_error_roll
+
+Variable: simulated_error_phase
+
+Variable: simulated_error_orbital

@@ -1,0 +1,11 @@
+=== Variables ===
+
+Variable: sst
+
+Variable: qual_sst
+
+Variable: lat
+
+Variable: lon
+
+Variable: palette

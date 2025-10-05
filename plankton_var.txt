@@ -1,0 +1,7 @@
+Variable: carbon_phyto
+
+Variable: lat
+
+Variable: lon
+
+Variable: palette

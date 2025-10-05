@@ -1,0 +1,17 @@
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20141215.L4m.DAY.CARBON.carbon_phyto.4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20141216.L4m.DAY.CARBON.carbon_phyto.4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20141217.L4m.DAY.CARBON.carbon_phyto.4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20141218.L4m.DAY.CARBON.carbon_phyto.4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20141219.L4m.DAY.CARBON.carbon_phyto.4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20141220.L4m.DAY.CARBON.carbon_phyto.4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20141221.L4m.DAY.CARBON.carbon_phyto.4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20141222.L4m.DAY.CARBON.carbon_phyto.4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20141223.L4m.DAY.CARBON.carbon_phyto.4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20141224.L4m.DAY.CARBON.carbon_phyto.4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20141225.L4m.DAY.CARBON.carbon_phyto.4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20141226.L4m.DAY.CARBON.carbon_phyto.4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20141227.L4m.DAY.CARBON.carbon_phyto.4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20141228.L4m.DAY.CARBON.carbon_phyto.4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20141229.L4m.DAY.CARBON.carbon_phyto.4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20141230.L4m.DAY.CARBON.carbon_phyto.4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20141231.L4m.DAY.CARBON.carbon_phyto.4km.nc
